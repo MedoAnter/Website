@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm mohamed Tamer</h1>
 <h3 align="center">A passionate Web developer from Egypt</h3>
 
-<img src="E:\Mohamed">
+
 
 - 🔭 I’m currently pursuing **Final Year Engineering**
 
