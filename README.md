@@ -4,10 +4,6 @@
 
 
 
-- 🔭 I’m currently pursuing **Final Year Engineering**
-
-- 🌱 I’m currently learning **Full Stack Development**
-
 - 👨‍💻 My portfolio website [https://medoanter.github.io/site/](https://medoanter.github.io/site/)
 
 - 💬 Ask me about **Python, HTML, CSS**
